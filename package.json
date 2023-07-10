@@ -1,7 +1,7 @@
 {
   "name": "react-example",
   "version": "0.1.0",
-  "homepage": "https://github.com/VivianZhuang8/react-example",
+  "homepage": "https://vivianzhuang8.github.io/react-example/",
   "private": true,
   "dependencies": {
     "@atlaskit/code": "^14.3.5",
